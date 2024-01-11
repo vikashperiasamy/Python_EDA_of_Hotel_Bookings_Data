@@ -1,5 +1,5 @@
 # Project Description
-In this project, exploratory data analysis is performed on hotel bookings' data using **Python**, with relevant elaborations and visualisations presented together using **Jupyter Notebook**. There are a few key focuses for this project:
+In this project, exploratory data analysis is performed on hotel bookings' data using **Python**, with relevant elaborations and visualisations presented together in a **[Jupyter Notebook](Hotel_booking_EDA.ipynb)**. There are a few key focuses for this project:
 * To investigate factors impacting **cancellation rates** at hotels
 * To investigate **[ADR](https://www.investopedia.com/terms/a/average-daily-rate.asp) (average daily rate) relationships** with other categories of hotel data
 * To identify opportunities for hotels to **maximise revenue**
